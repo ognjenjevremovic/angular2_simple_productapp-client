@@ -1,0 +1,11 @@
+thead {
+    color: #337AB7;
+    font-style: italic;
+    text-transform: uppercase;
+}
+thead th:not(:first-child) {
+    text-align: center;
+}
+tbody td:not(:first-child) {
+    text-align: center;
+}

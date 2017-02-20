@@ -1,0 +1,19 @@
+li {
+    font-size: large;
+}
+
+div.panel-heading {
+   font-size: x-large; 
+}
+
+img.img-small {
+    width: 160px;
+}
+
+.product-details {
+    margin: 4rem auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
